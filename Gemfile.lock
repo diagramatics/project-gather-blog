@@ -33,6 +33,7 @@ GEM
     sass (3.4.13)
     timers (4.0.1)
       hitimes
+    wdm (0.1.0)
 
 PLATFORMS
   x64-mingw32
@@ -40,3 +41,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.0.0.pre.beta8)
   sass (= 3.4.13)
+  wdm (>= 0.1.0)
