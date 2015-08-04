@@ -22,6 +22,9 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 43%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$grey-color-strong: $grey-color-dark;
+$grey-color-weak: $grey-color-light;
+
 // Width of the content area
 $content-width:    800px;
 
